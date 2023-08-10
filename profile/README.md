@@ -1,4 +1,4 @@
-## EUDI Wallet Consortium (EWC) 👋
+## EU Digital Identity Wallet Consortium (EWC) 👋
 
 ### What is EWC organization all about?
 
@@ -16,4 +16,5 @@ Please contact: [info@eudiwalletconsortium.org](mailto:info@eudiwalletconsortium
 
 ### Useful resources
 *  EWC Home page: [eudiwalletconsortium.org](eudiwalletconsortium.org)
+*  EWC Wiki page: [eudiwalletconsortium.org](eudiwalletconsortium.org)
 
