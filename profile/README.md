@@ -16,5 +16,5 @@ Please contact: [info@eudiwalletconsortium.org](mailto:info@eudiwalletconsortium
 
 ### Useful resources
 *  EWC Home page: [eudiwalletconsortium.org](eudiwalletconsortium.org)
-*  EWC Wiki page: [eudiwalletconsortium.org](eudiwalletconsortium.org)
+*  EWC Wiki page: [https://github.com/EWC-consortium/ewc-wiki/wiki](https://github.com/EWC-consortium/ewc-wiki/wiki)
 
