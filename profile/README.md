@@ -1,5 +1,7 @@
 ## EU Digital Identity Wallet Consortium (EWC)
 
+European ID Wallet Consoritum (EWC) repository. The project is co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them.
+
 ### What is EWC organization all about?
 
 This project is coordinated by Sweden and Finland with the involvement of 18 Member States and Ukraine. It involves over 15 public administrations and over 40 private entities. The project will test 3 use-cases as below: 
