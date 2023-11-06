@@ -1,8 +1,10 @@
-![Logo_EWC_Orizzontal_CMYK (1)](https://github.com/EWC-consortium/.github/assets/455274/6a560d0c-9a45-46a1-8d37-fa4e98e31a6e)
-
 ## EU Digital Identity Wallet Consortium (EWC)
 
-EU Digital Identity Wallet Consortium (EWC) repository. The project is co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them.
+EU Digital Identity Wallet Consortium (EWC) repository.
+
+![eu_co_funded_en](https://github.com/EWC-consortium/.github/assets/455274/222ae9fc-7964-4e31-9577-579b00a34e2e)
+
+The project is co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them
 
 ### What is EWC organization all about?
 
