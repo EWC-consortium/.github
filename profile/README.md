@@ -1,3 +1,6 @@
+<img width="1921" height="1082" alt="image" src="https://github.com/user-attachments/assets/60c61ccc-21a8-4f5c-9ee1-21d4df3e59fc" />
+
+
 ## EU Digital Identity Wallet Consortium (EWC)
 
 EU Digital Identity Wallet Consortium (EWC) repository.
